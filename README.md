@@ -12,3 +12,7 @@
    1. **Import Project**, y seleccionar la carpeta del proyecto.
    1. Marcar **Create Project from external model**, elegir **Maven**.
    1. **Next** … **Finish**.
+
+
+3. ## [Travis(tyler)]
+[![Build Status](https://travis-ci.com/tyler-g-des/devops-practic.svg?branch=master)](https://travis-ci.com/tyler-g-des/devops-practic)
