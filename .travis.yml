@@ -11,5 +11,3 @@ notifications:
       - tylercherield@gmail.com
 install:
   - mvn install -DskipTests=true -Dmaven.javadoc.skip=true -B -V
-script:
- -Dsonar.organization=miw-upm-github -Dsonar.login=$SONAR
