@@ -1,4 +1,3 @@
-## [Máster en Ingeniería Web por la Universidad Politécnica de Madrid (miw-upm)](http://miw.etsisi.upm.es)
 ## Ingeniería Web: Visión General (IWVG) DevOps
 > Este proyecto es una Plantilla de apoyo docente de la asignatura.
 
@@ -14,5 +13,5 @@
    1. **Next** … **Finish**.
 
 
-3. ## [Travis(tyler)]
+## [Travis(tyler)]
 [![Build Status](https://travis-ci.com/tyler-g-des/devops-practic.svg?branch=master)](https://travis-ci.com/tyler-g-des/devops-practic)
